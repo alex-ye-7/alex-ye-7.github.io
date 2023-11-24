@@ -48,6 +48,6 @@ Relevant Coursework
 Skills & Interests
 ------
 
-**Technical**: Python (Matplotlib, Numpy, Pandas, Scikit-Learn, Selenium), Java, C, Linux, Git, SQL, R, Microsoft Excel
-**Languages**: English (native), Mandarin (fluent), Spanish (proficient) 
-**Interests**: triathlons, poker, real estate, Sigma Alpha Epsilon (Social Chairman)
+**Technical**: Python (Matplotlib, Numpy, Pandas, Scikit-Learn, Selenium), Java, C, Linux, Git, SQL, R, Microsoft Excel </br>
+**Languages**: English (native), Mandarin (fluent), Spanish (proficient) </br>
+**Interests**: triathlons, poker, real estate, Sigma Alpha Epsilon (Social Chairman) </br>
