@@ -43,7 +43,9 @@ Extracurriculars
 Relevant Coursework
 ------
 
-
+**COSC:** Problem Solving via Object-Oriented Programming in Java, Software Design and Implementation, Machine Learning and Statistical Data Analysis, Data Mining and Knowledge Discovery, Discrete Mathematics, Digital Electronics, Security and Privacy
+**GEOG:** Geographical Information Systems, Critical Analysis in GIS, Web Mapping and Applications
+**Other:** Virtual Medicine and Cybercare (ENGS13), Linear Algebra and Applications (MATH22)
 
 Skills & Interests
 ------
