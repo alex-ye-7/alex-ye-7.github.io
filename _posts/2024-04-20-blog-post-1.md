@@ -1,0 +1,30 @@
+---
+title: 'Groundhog Day'
+date: 2024-04-20
+permalink: /posts/2024/04/blog-post-1/
+tags:
+  - cool posts
+---
+
+I don't normally write. However, one of my goals this year is to improve this ability. When this personal website template came with a blog post section, I suppose it was my sign to try it out. 
+
+Below is an expert I wrote for Dartmouth's Mental Health Student Union Blog, Mind the Gap, which focuses on bridging the gaps in mental health by encouraging students to talk about their experiences and thoughts. 
+
+Groundhog Day
+======
+
+On February 2, 2022, the nation’s most popular groundhog, Punxsutawney Phil, saw his shadow. As the tradition goes, that means the country can expect winter and below-average temperatures to continue for the next six weeks. But how reliable is our favorite marmot? While he was somewhat right last year, the data over the years isn’t in his favor. Over the last 10 years, Phil has been accurate 40% of the time, according to the National Oceanic and Atmospheric Administration, nailing his prediction in 2020, 2016, 2014, and 2013. So overall, Phil’s predictions are no better than the flip of a coin. 
+
+
+Here at Dartmouth, Phil can add another tally against his track record – there are only five, not six, more weeks until the end of winter (winter term that is). I am aware that this term has been quite an adjustment for many. Checking in with my groupmates in one of my classes last week, we all shared the sentiment that we are exhausted, busy, sleep-deprived, and cold. Both my roommates hail from sunny, warm states, and the foot of snow we got this week certainly rocked their world. And even though I’m from New England, nothing can prepare me for when -18 degrees hits. We’ve heard the term thrown around a bit: seasonal depression. I’m here to say that it is a very real thing.
+
+Seasonal affective disorder (SAD) is a type of depression characterized by symptoms like fatigue, appetite changes, weight gain, hopelessness, and social withdrawal during seasonal changes, especially in climates where there is less sunlight at certain times of the year. Some ways to treat SAD include light therapy (phototherapy), talk therapy, and medication. While it’s normal to have days when you feel down, feeling down for days at a time and without motivation to do activities you normally enjoy may be a sign to reach out for help. Regardless of SAD, the Dartmouth schedule is notoriously stressful and fast-paced with schoolwork and extracurriculars, and the cold and snow certainly may not help. And that is all normal.  
+
+However, all of us can take steps to improve our mindset and fight SAD. In fact, what groundhog Phil teaches me is that it is always important to be self-reflective – to be looking out for my own shadow. What is my impact on others? What can I do to improve myself? Am I happy with who I am? More importantly, Phil teaches me that we cannot control what we see and our situation, but we can control how we react to it. We can see something unpleasant, like six more weeks of winter, but we can rejoice and celebrate Groundhog Day nonetheless as many people do. We don’t have to be happy with where we are right now, but let that be a chance to get better. Latch onto something you can do better, and don’t forget to enjoy the small improvements. These self-reflective questions help define who we are and guide us to who we decide to become. As we sit on the halfway mark of this 22W term, let us take a moment to reflect. And then perhaps, you can scurry back into the warmth of your bed. The perspective is yours.
+
+Sources
+-----
+
+https://www.meadvilletribune.com/news/groundhog-day-2022-punxsutawney-phil-sees-his-shadow/article_55a869f0-845d-11ec-8189-034bbbd2c6f4.html
+
+https://www.mayoclinic.org/diseases-conditions/seasonal-affective-disorder/symptoms-causes/syc-20364651 
