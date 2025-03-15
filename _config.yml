@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexander Ye"
-  avatar           : "3V7A0073.JPEG"
+  avatar           : "2024111355287782 (1).jpg"
   bio              : "Student-Athlete at Dartmouth College"
   location         : "Greenwich, Connecticut"
   employer         :
@@ -178,9 +178,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
